@@ -61,7 +61,7 @@
         },
         {
             "name": "generator_without_testlib.py",
-            "language": "java8",
+            "language": "",
             "alias": "random_py"
         }
     ],
