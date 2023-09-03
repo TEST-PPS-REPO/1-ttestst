@@ -61,7 +61,7 @@
         },
         {
             "name": "generator_without_testlib.py",
-            "language": "",
+            "language": "py3",
             "alias": "random_py"
         }
     ],
