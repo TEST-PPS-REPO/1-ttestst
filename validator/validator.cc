@@ -3,7 +3,7 @@ using namespace std;
 
 #define A_MIN 1
 #define A_MAX 9
-#define B_MIN 9
+#define B_MIN 1
 #define B_MAX 9
 
 int main(int argc, char** argv) {
